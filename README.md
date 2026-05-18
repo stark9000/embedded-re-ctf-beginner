@@ -366,7 +366,7 @@ Binary file හි F4 01 **එකම patchable location නොවේ**. මෙ�
 
 ---
 
-## 🎓 ප්‍රධාන Lessons
+## 🎓 ප්‍රධාන පාඩම්
 
 | # | Lesson |
 |---|--------|

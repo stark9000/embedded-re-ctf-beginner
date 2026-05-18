@@ -25,15 +25,6 @@
 [![Language](https://img.shields.io/badge/Tutorial-සිංහල-FF6B35?style=for-the-badge)]()
 [![Tools](https://img.shields.io/badge/Tools-HxD%20%7C%20avrdude%20%7C%20avr--objdump-2E75B6?style=for-the-badge)]()
 
----
-
-*Ghidra නැත. Python නැත. strings.exe නැත. Hex bytes සහ කුතුහලය පමණි.*
-
-*Windows 10 / 11 හි test කර ඇත.*
-
-</div>
-
----
 
 ## 🎯 Challenge දළ විශ්ලේෂණය
 

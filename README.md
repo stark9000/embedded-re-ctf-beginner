@@ -230,6 +230,18 @@ Byte   │  0C   │  94   │ ... │  FF   │  F4   │  01   │ ...
 
 ### Step 1 — Firmware Extract
 
+⚠️ Tool Path — Arduino IDE Installation Required
+
+This challenge uses avrdude and avr-objdump bundled with Arduino IDE.
+Default path (change <username> to your Windows username):
+
+AVRDUDE:
+C:\Users\<username>\AppData\Local\Arduino15\packages\arduino\tools\avrdude\
+
+AVR-GCC (avr-objdump):
+C:\Users\<username>\AppData\Local\Arduino15\packages\arduino\tools\avr-gcc\
+
+
 | Bootloader | Baud Rate | BAT File |
 |-----------|-----------|---------|
 | New (CH340) | 115200 | `extract_new.bat` |

@@ -38,14 +38,14 @@
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
-│   Patch කිරීමට පෙර:              Patch කිරීමෙන් පසු:           │
+│   Patch කිරීමට පෙර:              Patch කිරීමෙන් පසු:            │
 │                                                                  │
 │   CHECKING...                    CHECKING...                     │
-│   SYSTEM LOCKED  ← 500ms         FLAG{patched_the_firmware} ✅  │
+│   SYSTEM LOCKED  ← 500ms         FLAG{patched_the_firmware} ✅   │
 │   SYSTEM LOCKED                                                  │
 │   SYSTEM LOCKED                  LED වේගයෙන් blink (100ms)     │
 │                                                                  │
-│   Mission: flash .data offset 0x7F6 → F4 01 → 64 00            │
+│   Mission: flash .data offset 0x7F6 → F4 01 → 64 00              │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```

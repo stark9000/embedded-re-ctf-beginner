@@ -396,10 +396,9 @@ arduino-nano-ctf/
 ├── disassembly.bat
 ├── flash_new.bat
 ├── flash_old.bat
-│
-├── tutorial/
-│   ├── Arduino_Nano_CTF_Tutorial_V5.docx      ← සිංහල
-│   └── Arduino_Nano_CTF_Tutorial_V5_EN.docx   ← English
+|
+│── Arduino_Nano_CTF_Tutorial_V5.docx      ← සිංහල
+│── Arduino_Nano_CTF_Tutorial_V5_EN.docx   ← English
 │
 └── README.md
 ```

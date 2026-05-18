@@ -429,8 +429,8 @@ FLAG{patched_the_firmware}
 
 <div align="center">
 
-**ඉගෙනීම සඳහා නිර්මාණය කළා. සැබෑ hardware හි test කළා. Windows 10/11.**
+**ඉගෙනීම සඳහා නිර්මාණයකොට ඇත. සැබෑ hardware යෝදාගෙන පරීක්ෂා කොට ඇත. Windows 10/11.**
 
-*Arduino Nano Embedded RE CTF — සිංහල Tutorial V5*
+*Arduino Nano Embedded RE CTF — සිංහල Tutorial *
 
 </div>

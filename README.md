@@ -75,14 +75,10 @@
 
 ## 📦 Challenge Package — BAT Files
 
-සෑම BAT file එකක්ම package හි include කර ඇත. Manual path setup අවශ්‍ය නොවේ.
+සෑම BAT file එකක්ම package හි include කර ඇත.
 
 ```
-CTF/
-├── tools/
-│   ├── avrdude.exe
-│   ├── avrdude.conf
-│   └── avr-gcc/bin/avr-objdump.exe
+CTF
 │
 ├── extract_new.bat       ← New bootloader (115200 baud)
 ├── extract_old.bat       ← Old bootloader (57600 baud)
@@ -91,7 +87,7 @@ CTF/
 ├── flash_new.bat         ← patched.bin flash (115200)
 ├── flash_old.bat         ← patched.bin flash (57600)
 │
-├── firmware.bin          ← Challenge firmware
+├── embedded_CTF_arduino_nano_0_ino.bin          ← Challenge firmware
 └── README.md
 ```
 
@@ -385,10 +381,6 @@ arduino-nano-ctf/
 │   ├── embedded_CTF_arduino_nano_0_ino.bin
 │   └── embedded_CTF_arduino_nano_0_ino.hex
 │
-├── tools/
-│   ├── avrdude.exe
-│   ├── avrdude.conf
-│   └── avr-gcc/bin/avr-objdump.exe
 │
 ├── extract_new.bat
 ├── extract_old.bat
